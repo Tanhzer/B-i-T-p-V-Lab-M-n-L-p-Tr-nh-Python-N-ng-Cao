@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <Msv>123456</Msv>
+        <name>HaiYen</name>
+        <birthYear>2005</birthYear>
+        <class>DHKL17A3</class>
+        <gender>Nu</gender>
+    </student>
+    <student>
+        <Msv>654321</Msv>
+        <name>HongHoa</name>
+        <birthYear>2005</birthYear>
+        <class>DHKL17A2</class>
+        <gender>Nu</gender>
+    </student>
+    <student>
+        <Msv>789123</Msv>
+        <name>PhuongThao</name>
+        <birthYear>2005</birthYear>
+        <class>DHKL17A1</class>
+        <gender>Nu</gender>
+    </student>
+</students>
